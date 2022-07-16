@@ -10,3 +10,8 @@ I'm a Software Automation Engineer
 ## About me
 - I have eight years of experience
 - I'm Lead
+
+## Tools
+- Jira
+- ALM
+- TestNG
