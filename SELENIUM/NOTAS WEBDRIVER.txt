@@ -1,0 +1,30 @@
+POO: ES EL ARCHIVO PRINCIPAL DE MVN DE TIPO .XML Y ES DONDE SE COLOCAN LAS DEPENDENCIAS
+
+MAVEN REPOSITORY
+https://www.google.com/search?q=maven+repository&rlz=1C1CHBD_esMX846MX846&ei=eVlIYrjtHZmekPIPi8ScwA8&oq=maven+&gs_lcp=Cgdnd3Mtd2l6EAMYATIECAAQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoHCAAQRxCwAzoNCC4QxwEQ0QMQsAMQQzoHCAAQsAMQQzoQCC4QxwEQ0QMQ6gIQtAIQQzoKCAAQ6gIQtAIQQ0oECEEYAEoECEYYAFDOCljMaWCbfmgFcAF4AIABVYgB1AOSAQE2mAEAoAEBsAEKyAEKwAEB&sclient=gws-wiz
+
+--------------------------------------------------------
+
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+
+---------------------------------------------------------
+
+COMPILAR=TRADUCIR TRADUCCCION DE LOS LENGUAJES A CODIGO MAQUINA
+CONTRUYE, EMPAQUETA
+
+----------------------------------------------------------
+
+web driver es la libreria de selenium que controla el navegador.
+
+----------------------------------------------------------
+
+PATH= RUTA
+
+-----------------------------------------------------------
+
+cuando se muestra un exceepcion NOSOUCRCHELEMTEXCEPTTION, es porque esta mal escrita o por id no se puede trabajar. error enfocado al web element.
+
+------------------------------------------------------------
+
+REPOSITORIO---ESPACIO DE MEMORIA PARA ALMACENAR
+
